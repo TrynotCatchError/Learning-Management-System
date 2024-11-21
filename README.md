@@ -69,10 +69,6 @@ It’ll start the template on [localhost:3000](http://localhost:3000).
 
 
 
-
-
-If you are using a GitHub repo then you can go with free-of-cost and easy-to-use options like [Vercel](https://vercel.com/), or [Netlify](https://netlify.com/) they offer decent-free tiers for Next.js hosting.
-
 ### 📄 License
 This project is open-source and available under the MIT License.
 
